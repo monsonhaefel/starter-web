@@ -18,4 +18,4 @@ This is the deployment information.
 
 ## Copyright
 
-2014 Git.Trainingx
+Richard Monson-haefel 2018

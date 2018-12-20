@@ -6,7 +6,7 @@ some kiond of change
 
 ## Introduction
 
-This is the introduction. bla bal bal. boo, boo, boo
+This is the introduction. bla bal bal. boo, boo, boo. Added foo foo foo
 
 ## Purpose
 

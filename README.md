@@ -4,7 +4,9 @@ This repository is for showing how Git and GitHub work.
 
 some kiond of change
 
-new stuff for testing
+new stuff for testing,
+more changes 
+
 ## Introduction
 
 

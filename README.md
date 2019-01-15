@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 
-some kiond of change
+some big change
 
 new stuff for testing,
 more changes 
